@@ -1,0 +1,18 @@
+{
+  "name": "trospysmp",
+  "version": "0.1.0",
+  "description": "TrospySMP bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "gcommands": "^9.0.1-next"
+  }
+}
